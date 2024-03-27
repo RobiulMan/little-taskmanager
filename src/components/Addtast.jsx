@@ -26,7 +26,7 @@ const Addtast = ({ setAddTask }) => {
           value={task}
         />
         <p className="mt-2 text-sm text-whit dark:text-gray">
-          <span className="font-medium">press Entire</span> to add your task !
+          <span className="font-medium">press Enter</span> to add task !
         </p>
       </div>
     </div>
